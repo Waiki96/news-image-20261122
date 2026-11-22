@@ -1,0 +1,1 @@
+{"description":"The World in One Image — Sunday 22 November 2026. A newspaper front page drawn with pureimage 0.3.17: 38 verified stories, a world map with 8 pins, and a Gulf-markets ticker.","license":"MIT","name":"news-image-20261122","private":true,"scripts":{"render":"node tools/render.mjs"},"type":"module","version":"1.0.0"}
